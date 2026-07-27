@@ -1,47 +1,31 @@
 <div align="center">
 
-# Booting...
-
-<img src="./assets/hero/boot.svg" width="900"/>
+<img src="./assets/hero/hero.svg" width="100%">
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-<!-- About -->
+Self-taught Full Stack Developer building scalable MERN applications.
 
-</div>
-
----
-
-<div align="center">
-
-<!-- Tech Stack -->
-
-</div>
+Currently building **AutoChirp**, an Instagram DM automation platform using the Meta Graph API.
 
 ---
 
-<div align="center">
+## 🛠 Tech Stack
 
-<!-- Projects -->
-
-</div>
+Coming Soon...
 
 ---
 
-<div align="center">
+## 📌 Featured Projects
 
-<!-- Snake -->
-
-</div>
+Coming Soon...
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-<!-- Stats -->
-
-</div>
+Coming Soon...

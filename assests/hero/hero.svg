@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+viewBox="0 0 1200 520">
+
+<style>
+
+.background{
+fill:#0d1117;
+}
+
+.window{
+fill:#161b22;
+stroke:#30363d;
+stroke-width:2;
+}
+
+.title{
+fill:#8b949e;
+font:20px monospace;
+}
+
+.text{
+fill:white;
+font:28px monospace;
+}
+
+.green{
+fill:#3fb950;
+font:28px monospace;
+}
+
+.cursor{
+animation:blink 1s steps(1) infinite;
+}
+
+.boot1{
+opacity:0;
+animation:show .1s forwards;
+animation-delay:.8s;
+}
+
+.boot2{
+opacity:0;
+animation:show .1s forwards;
+animation-delay:1.5s;
+}
+
+.boot3{
+opacity:0;
+animation:show .1s forwards;
+animation-delay:2.2s;
+}
+
+.boot4{
+opacity:0;
+animation:show .1s forwards;
+animation-delay:3s;
+}
+
+.boot5{
+opacity:0;
+animation:show .1s forwards;
+animation-delay:4s;
+}
+
+.boot6{
+opacity:0;
+animation:show .1s forwards;
+animation-delay:5s;
+}
+
+@keyframes show{
+
+to{
+
+opacity:1;
+
+}
+
+}
+
+@keyframes blink{
+
+50%{
+
+opacity:0;
+
+}
+
+}
+
+</style>
+
+<rect
+width="1200"
+height="520"
+class="background"/>
+
+<rect
+x="60"
+y="40"
+rx="14"
+width="1080"
+height="430"
+class="window"/>
+
+<circle cx="95" cy="65" r="7" fill="#ff5f57"/>
+<circle cx="120" cy="65" r="7" fill="#febc2e"/>
+<circle cx="145" cy="65" r="7" fill="#28c840"/>
+
+<text
+x="540"
+y="72"
+class="title">
+terminal
+</text>
+
+<text
+x="90"
+y="120"
+class="green cursor">
+█
+</text>
+
+<text
+x="90"
+y="170"
+class="text boot1">
+$ boot developer
+</text>
+
+<text
+x="90"
+y="215"
+class="text boot2">
+Initializing modules...
+</text>
+
+<text
+x="90"
+y="255"
+class="green boot3">
+[ OK ] JavaScript
+</text>
+
+<text
+x="90"
+y="295"
+class="green boot3">
+[ OK ] TypeScript
+</text>
+
+<text
+x="90"
+y="335"
+class="green boot4">
+[ OK ] React
+</text>
+
+<text
+x="90"
+y="375"
+class="green boot4">
+[ OK ] Node.js
+</text>
+
+<text
+x="90"
+y="415"
+class="green boot5">
+Developer Loaded.
+</text>
+
+<text
+x="610"
+y="170"
+class="text boot6">
+$ whoami
+</text>
+
+<text
+x="610"
+y="215"
+class="green boot6">
+Zishan
+</text>
+
+<text
+x="610"
+y="265"
+class="text boot6">
+Full Stack Developer
+</text>
+
+<text
+x="610"
+y="315"
+class="green boot6 cursor">
+█
+</text>
+
+</svg>
