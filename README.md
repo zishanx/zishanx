@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-  <img src="./assets/hero/hero.svg" width="100%" alt="Hero Terminal">
+  <img src="assets/hero/hero.svg" width="100%" alt="Hero Terminal">
 </p>
 
 
