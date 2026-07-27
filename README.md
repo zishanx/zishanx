@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/hero/hero.svg" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zishanx/zishanx/main/assets/hero/hero.svg" width="100%">
+</p>
 
 </div>
 
