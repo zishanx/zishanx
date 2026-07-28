@@ -1,0 +1,89 @@
+<svg width="620" height="230" viewBox="0 0 620 230" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font-family: 'Segoe UI', Verdana, sans-serif; font-size: 13px; fill: #8b949e; }
+  </style>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=js" x="10" y="10" width="48" height="48"/>
+    <text class="label" x="34" y="76" text-anchor="middle">JavaScript</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="0s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=ts" x="90" y="10" width="48" height="48"/>
+    <text class="label" x="114" y="76" text-anchor="middle">TypeScript</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="0.18s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=react" x="170" y="10" width="48" height="48"/>
+    <text class="label" x="194" y="76" text-anchor="middle">React</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="0.36s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=nextjs" x="250" y="10" width="48" height="48"/>
+    <text class="label" x="274" y="76" text-anchor="middle">Next.js</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="0.54s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=nodejs" x="330" y="10" width="48" height="48"/>
+    <text class="label" x="354" y="76" text-anchor="middle">Node.js</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="0.72s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=express" x="410" y="10" width="48" height="48"/>
+    <text class="label" x="434" y="76" text-anchor="middle">Express</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="0.9s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=mongodb" x="490" y="10" width="48" height="48"/>
+    <text class="label" x="514" y="76" text-anchor="middle">MongoDB</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="1.08s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=tailwind" x="10" y="110" width="48" height="48"/>
+    <text class="label" x="34" y="176" text-anchor="middle">Tailwind</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="1.26s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=git" x="90" y="110" width="48" height="48"/>
+    <text class="label" x="114" y="176" text-anchor="middle">Git</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="1.44s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=github" x="170" y="110" width="48" height="48"/>
+    <text class="label" x="194" y="176" text-anchor="middle">GitHub</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="1.62s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=vercel" x="250" y="110" width="48" height="48"/>
+    <text class="label" x="274" y="176" text-anchor="middle">Vercel</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="1.8s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=vscode" x="330" y="110" width="48" height="48"/>
+    <text class="label" x="354" y="176" text-anchor="middle">VS Code</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="1.98s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=postman" x="410" y="110" width="48" height="48"/>
+    <text class="label" x="434" y="176" text-anchor="middle">Postman</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="2.16s"/>
+  </g>
+
+  <g>
+    <image href="https://skillicons.dev/icons?i=figma" x="490" y="110" width="48" height="48"/>
+    <text class="label" x="514" y="176" text-anchor="middle">Figma</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite" begin="2.34s"/>
+  </g>
+</svg>
