@@ -21,3 +21,41 @@ Building products people actually use.
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+
+## 💻 Terminal
+
+</div>
+
+```bash
+$ whoami
+
+Zishan
+
+Full Stack Developer
+
+-------------------------------
+
+Stack
+├── JavaScript
+├── TypeScript
+├── React
+├── Next.js
+├── Node.js
+├── Express
+├── MongoDB
+└── PostgreSQL
+
+Status
+└── Available for Freelance
+
+Current Project
+└── AutoChirp
+
+Location
+└── India
+
+```
