@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zishan</h1>
+<h1 align="center">Hi , I'm Zishan</h1>
 
 <h3 align="center">
 Full Stack Developer • MERN • TypeScript • Next.js
@@ -26,7 +26,7 @@ Building products people actually use.
 
 <div align="center">
 
-## 💻 Terminal
+
 
 </div>
 
